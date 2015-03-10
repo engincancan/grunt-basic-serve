@@ -1,7 +1,7 @@
 # grunt-basic-serve
 
 ## Getting Started
-This plugin requires Grunt `~0.4.5`
+This is an example usage structure for GruntFile.js as a defaul http server via local files
 
 If you haven't used [Grunt](http://gruntjs.com/) before, be sure to check out the [Getting Started](http://gruntjs.com/getting-started) guide, as it explains how to create a [Gruntfile](http://gruntjs.com/sample-gruntfile) as well as install and use Grunt plugins.
 
